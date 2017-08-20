@@ -1,0 +1,2 @@
+// mnp_assigner
+
